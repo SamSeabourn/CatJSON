@@ -1,19 +1,25 @@
 {
-	"currentKittens": [
-		{
-			"name": "Steve",
-			"description": "This is a test description for the kitten ing questiong",
-			"imageUrl": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-		},
-		{
-			"name": "Tony",
-			"description": "This is a test description for the kitten ing questiong",
-			"imageUrl": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?cs=srgb&dl=pexels-kelvin-valerio-617278.jpg&fm=jpg"
-		},
-		{
-			"name": "Big Al",
-			"description": "This is a test description for the kitten ing questiong",
-			"imageUrl": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-		}
-	]
+  "currentKittens": [
+    {
+      "id": "l8lhp10gigh8ia8zqgf",
+      "name": "Kitten Name",
+      "description": "This is a description about this particular kitten",
+      "imgUrl": "https://i.pinimg.com/236x/3c/b1/74/3cb174a313cd1f1cbd8d1bcfef453f44--pretty-in-pink-the-pink.jpg",
+      "gender": "female"
+    },
+    {
+      "id": "l8lhq81s7j3rorry4ap",
+      "name": "Kibbles",
+      "description": "This is a description about this particular kitten. This description is a fair bit longer than the last description. This is because Im rambling, rambling is a greate way to add more words.",
+      "imgUrl": "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-988013222-scaled-e1618857975729.jpg",
+      "gender": "male"
+    },
+    {
+      "id": "l8lhrhlhr2lz3w58nx",
+      "name": "Hank",
+      "description": "This is a description about this particular kitten. This description is a fair bit longer than the last description. This is because Im rambling, rambling is a greate way to add more words.\nI have heard this being called a filler buster before, but if you ask me that kinda sounds dumb. Like who the even created that word?",
+      "imgUrl": "https://images.unsplash.com/photo-1611915387288-fd8d2f5f928b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+      "gender": "female"
+    }
+  ]
 }
